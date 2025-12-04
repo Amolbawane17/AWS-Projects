@@ -1,2 +1,5 @@
 # AWS-Projects
-Hi, This is my projects
+Creating an project with Various AWS service like aws lambda, dyanamoDB, API gateways, CLoudtrail etc,
+
+Steps to be followed:
+  
